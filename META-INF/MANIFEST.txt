@@ -1,0 +1,1 @@
+Service-Component: OSGI-INF/RO_CodeMakerDocEvent.xml,OSGI-INF/RO_CodeMakerModelFactory.xml
